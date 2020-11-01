@@ -1,5 +1,3 @@
-package scala.part1
-
 object Chap2 {
   def fib(n: Int): Int = {
     @annotation.tailrec

@@ -1,5 +1,3 @@
-package scala.part1
-
 sealed abstract trait Option2[+A] {
   def map[B](f: A => B): Option2[B] = this match {
     case None2 => None2

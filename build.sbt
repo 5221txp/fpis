@@ -14,7 +14,7 @@ scalaVersion := "2.13.1"
 // It's possible to define many kinds of settings, such as:
 
 name := "fpis"
-organization := "ch.epfl.scala"
+organization := "com.aqua"
 version := "1.0"
 
 // Note, it's not required for you to define these three settings. These are
